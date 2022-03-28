@@ -1,4 +1,4 @@
-# JetBrainsNRK
+# NRK Mono
 
 This is a modified version of [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 based on `v2.001`.
@@ -12,13 +12,13 @@ Some notable changes are:
 * Additional `Condensed` (-6%) version for better utilizing horizontal screen space.
 * Additional glyphs from `v2.242` merged in (might cause some issues).
 
-## Condensed
+## NRK Condensed
 
-![Condensed](JetBrainsNRK_Condensed.png)
+![Condensed](NRK-Condensed.png)
 
-## Regular
+## NRK Mono
 
-![Regular](JetBrainsNRK_Regular.png)
+![Regular](NRK-Mono.png)
 
 ## License
 
