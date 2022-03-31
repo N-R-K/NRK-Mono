@@ -12,13 +12,13 @@ Some notable changes are:
 * Additional `Condensed` (-6%) version for better utilizing horizontal screen space.
 * Additional glyphs from `v2.242` merged in (might cause some issues).
 
-## NRK Condensed
-
-![Condensed](NRK-Condensed.png)
-
-## NRK Mono
+## Regular
 
 ![Regular](NRK-Mono.png)
+
+## Condensed
+
+![Condensed](NRK-Condensed.png)
 
 ## License
 
