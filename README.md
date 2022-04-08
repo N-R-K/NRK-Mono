@@ -7,6 +7,7 @@ The reason for choosing `v2.001` is because of [this issue](https://github.com/J
 Some notable changes are:
 
 * Patched with [Nerd-Font-Patcher](https://github.com/N-R-K/nerd-font-patcher).
+* Slashed zero instead of dotted one. (Screenshots below not updated yet)
 * Smaller case `u` has been replaced with `u` from DejaVu Sans Mono.
 * All non-alphanumeric ascii chars have medium thickness.
 * Additional `Condensed` (-6%) version for better utilizing horizontal screen space.
