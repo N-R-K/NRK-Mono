@@ -1,8 +1,9 @@
 # NRK Mono
 
 This is a modified version of [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
-based on `v2.001`.
-The reason for choosing `v2.001` is because of [this issue](https://github.com/JetBrains/JetBrainsMono/issues/334).
+based on `v2.001`. The reason for choosing `v2.001` is due to the
+[line height issue](https://github.com/JetBrains/JetBrainsMono/issues/334)
+on later versions.
 
 Some notable changes are:
 
