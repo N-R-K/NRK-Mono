@@ -11,7 +11,9 @@ Some notable changes are:
 * Uses the old `5`, `J`, `&`, `,`, `;` and `-` from `v2.001`.
 * All non-alphanumeric ascii chars have medium thickness.
 
-<!-- TODO: add picture -->
+## Preview
+
+![Preview](preview.png)
 
 ## License
 
