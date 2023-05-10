@@ -19,9 +19,9 @@ Some notable changes are:
 
 Same as [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt).
 
-## Changelog
+## Changelog v2.0.0
 
-The newest update brings a lot of breaking changes:
+This update brings a lot of breaking changes:
 
 * Updated from JetBrains Mono `v2.001` to `v2.304`.
   * The `Win {Ascent,Descent}` properties have been adjusted to workaround the
