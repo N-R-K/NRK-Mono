@@ -23,9 +23,12 @@ style = fnv[1]
 # alternate symbols
 CV = [
         ['zero', 'zero.zero'],
+
         ['five', 'five.cv20'],
         # ['five.dnom', 'five.dnom.cv20'],
         # ['five.numr', 'five.numr.cv20'],
+
+        # ['f', 'f.cv09.ss20'],
 
         ['g', 'g.cv03'],
         ['uni01F5', 'uni01F5.cv03'],
@@ -93,6 +96,7 @@ for g in BV:
     f.paste()
 
 # fixup: https://github.com/JetBrains/JetBrainsMono/issues/334
+# following values were taken from v2.001
 f.os2_winascent = 1085
 f.os2_windescent = 270
 f.os2_typoascent = 970
