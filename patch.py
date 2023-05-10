@@ -27,6 +27,14 @@ CV = [
         # ['five.dnom', 'five.dnom.cv20'],
         # ['five.numr', 'five.numr.cv20'],
 
+        ['g', 'g.cv03'],
+        ['uni01F5', 'uni01F5.cv03'],
+        ['gbreve', 'gbreve.cv03'],
+        ['gcaron', 'gcaron.cv03'],
+        ['gcircumflex', 'gcircumflex.cv03'],
+        ['uni0123', 'uni0123.cv03'],
+        ['gdotaccent', 'gdotaccent.cv03'],
+
         # u and friends
         ['u', 'u.cv12'],
         ['uacute', 'uacute.cv12'],
