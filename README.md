@@ -1,15 +1,20 @@
 # NRK Mono
 
-This is a modified version of [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
-based on `v2.304`.
+This is a modified version of [JetBrains Mono][JBM] based on `v2.304`.
 
 Some notable changes are:
 
-* Patched with [Nerd-Font-Patcher](https://github.com/ryanoasis/nerd-fonts/releases/latest) (search for `FontPatcher`).
+* Patched with [Nerd-Font-Patcher][NFP] (search for `FontPatcher.zip`).
 * Slashed zero instead of dotted one.
 * Uses the alternate `u` with a downwards bar.
 * Uses the old `5`, `J`, `&`, `,`, `;` and `-` from `v2.001`.
 * All non-alphanumeric ascii chars have medium thickness.
+
+Download highly compressed archives from the [releases tab][rel].
+
+[JBM]: https://github.com/JetBrains/JetBrainsMono
+[NFP]: https://github.com/ryanoasis/nerd-fonts/releases/latest
+[rel]: https://github.com/N-R-K/NRK-Mono/releases
 
 ## Preview
 
@@ -17,7 +22,7 @@ Some notable changes are:
 
 ## License
 
-Same as [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt).
+Same as JetBrainsMono.
 
 ## Changelog v2.0.0
 
