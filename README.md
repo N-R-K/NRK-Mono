@@ -1,6 +1,8 @@
 # NRK Mono
 
 This is a modified version of [JetBrains Mono][JBM] based on `v2.304`.
+***You can download the ttf files from the [releases tab][rel]
+(grab the `.tar.zst` file).***
 
 Some notable changes are:
 
@@ -16,8 +18,6 @@ Some notable changes are:
   may cause problems with certain glyphs).
 * Additional "Condensed" variant (-6%) available to better utilize horizontal
   screen space.
-
-***Download the ttf files from the [releases tab][rel].***
 
 [JBM]: https://github.com/JetBrains/JetBrainsMono
 [NFP]: https://github.com/ryanoasis/nerd-fonts/releases/latest
