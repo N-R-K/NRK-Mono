@@ -36,7 +36,7 @@ Same as JetBrainsMono.
 #### Linux/BSD/macos
 
 0. Install the `zstd` package (if you don't have it installed already).
-1. Run `tar --use-compress-program=zstd -xf NRK-Mono.tar.zst`.
+1. Run `tar -I zstd -xf NRK-Mono.tar.zst`.
 
 #### Windows
 
