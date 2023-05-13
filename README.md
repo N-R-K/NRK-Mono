@@ -31,6 +31,22 @@ Some notable changes are:
 
 Same as JetBrainsMono.
 
+## How to extract `.tar.zst`
+
+#### Linux/BSD/macos
+
+0. Install the `zstd` package (if you don't have it installed already).
+1. Run `tar --use-compress-program=zstd -xf NRK-Mono.tar.zst`.
+
+#### Windows
+
+If you want a GUI then [7-zip-zstd](https://github.com/mcmilk/7-Zip-zstd)
+(`.exe` download [here](https://github.com/mcmilk/7-Zip-zstd/releases)) seems to
+the recommended tool.
+
+If you are comfortable with command-line, `zstd` provides official [builds for
+windows](https://github.com/facebook/zstd/releases/) including a `zstd.exe`.
+
 ## Changelog v2.1.0
 
 * The ttf files are no longer checked into the git repo
