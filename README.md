@@ -42,7 +42,7 @@ Same as JetBrainsMono.
 
 If you want a GUI then [7-zip-zstd](https://github.com/mcmilk/7-Zip-zstd)
 (`.exe` download [here](https://github.com/mcmilk/7-Zip-zstd/releases)) seems to
-the recommended tool.
+be the recommended tool.
 
 If you are comfortable with command-line, `zstd` provides official [builds for
 windows](https://github.com/facebook/zstd/releases/) including a `zstd.exe`.
