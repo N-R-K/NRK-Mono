@@ -1,8 +1,15 @@
 # NRK Mono
 
 This is a modified version of [JetBrains Mono][JBM] based on `v2.304`.
+
+![Preview](preview.webp)
+
+- - -
+
 ***You can download the ttf files from the [releases tab][rel]
 (grab the `.tar.zst` file).***
+
+- - -
 
 Some notable changes are:
 
@@ -22,10 +29,6 @@ Some notable changes are:
 [JBM]: https://github.com/JetBrains/JetBrainsMono
 [NFP]: https://github.com/ryanoasis/nerd-fonts/releases/latest
 [rel]: https://github.com/N-R-K/NRK-Mono/releases
-
-## Preview
-
-![Preview](preview.webp)
 
 ## License
 
